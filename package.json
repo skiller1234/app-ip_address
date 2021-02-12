@@ -18,5 +18,15 @@
   "homepage": "https://github.com/skiller1234/app-ip_address#readme",
   "dependencies": {
     "ip-cidr": "^2.1.1"
-  }
+  },
+  "keywords": [
+    "An",
+    "IAP",
+    "product",
+    "serving",
+    "IP",
+    "address",
+    "management",
+    "functions."
+  ]
 }
